@@ -4,7 +4,7 @@
   "description": "assignment10 creative agency made by abu hasa n 10-12-2020/ 10.32 P.M",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
