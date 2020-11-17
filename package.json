@@ -1,19 +1,19 @@
 {
-  "name": "creative-agency-server",
+  "name": "apartment-hun",
   "version": "1.0.0",
-  "description": "assignment10 creative agency made by abu hasa n 10-12-2020/ 10.32 P.M",
+  "description": "Team Project made by abu hasa team n 11-16-2020/ 2.27P.M",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "abu",
     "Miy a",
-    "creative",
-    "agency"
+    "apartment",
+    "hunt"
   ],
-  "author": "abu hasa n",
+  "author": "abu hasa n & Mahbub & Katha",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
